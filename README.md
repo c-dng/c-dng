@@ -33,5 +33,6 @@ I love traveling, hiking, video games. ❤️
 ## 📚 I'm currently learning
 
 ## Where to find me
-[![forthebadge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://forthebadge.com)
-[![forthebadge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camilleduong/)
+[![forthebadge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c-dng)
+
